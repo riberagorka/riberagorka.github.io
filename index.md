@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi! My name is Gorka! This is my blog, the place where I will try to share everything related to data science, artificial intelligence & maths that I am learning along the way. We will try to make the explanations as esay as possible, because if something is understood, it can be explained in an easy way.
 
-Maybe say a some things about yourself.
+Any question or doubt, you can write me.
 
-Or maybe what you plan to blog about.
+Glad you read me. :)
