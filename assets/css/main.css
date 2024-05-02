@@ -75,3 +75,10 @@ html.dark #darkToggle:hover .horizon{
 .p-6 {
   padding: 1.5rem; /* 24px */
 }
+.list-disc {
+  list-style-type: disc;
+}
+
+.list-inside {
+  list-style-position: inside;
+}
