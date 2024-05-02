@@ -64,3 +64,14 @@ html.dark #darkToggle:hover .horizon{
         transform: translate3d(0, 10, 0)
     }
 }
+.p-2 {
+  padding: 0.5rem; /* 8px */
+}
+
+.p-4 {
+  padding: 1rem; /* 16px */
+}
+
+.p-6 {
+  padding: 1.5rem; /* 24px */
+}
