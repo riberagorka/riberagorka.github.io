@@ -18,6 +18,14 @@
         .prose img{
             border-radius: 20px;
         }
+        .letter-box {
+            max-width: 800px; /* Set max width */
+            margin: 0 auto; /* Center horizontally */
+            padding: 20px; /* Add padding */
+            background-color: #f9f9f9; /* Set background color */
+            border-radius: 20px; /* Add border radius */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+        }
     </style>
     <link rel="icon" type="image/x-icon" href="/assets/images/favicon.png">
     <script src="//unpkg.com/alpinejs" defer></script>
@@ -26,7 +34,9 @@
 <body class="antialiased bg-white dark:bg-neutral-950">
     <include src="square-lines.html"></include>
     <include src="header.html"></include>
-    {slot}
+    <div class="letter-box">
+        {slot}
+    </div>
     <include src="footer.html"></include>
     <script src="/assets/js/main.js"></script>
 </body>
