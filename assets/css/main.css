@@ -94,7 +94,9 @@ body {
 .max-w-4xl {
     max-width: 800px; /* Reduce width */
 }
-
+.bold-text {
+    font-weight: bold;
+}
 .container {
     margin: 0 auto;
     padding: 20px;
